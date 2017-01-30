@@ -1,5 +1,5 @@
 # hello_world
-Ideas
+About ME
 
 Hi humans! 
 
